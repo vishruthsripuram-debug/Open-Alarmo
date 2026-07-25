@@ -8,8 +8,11 @@ It started with inspiration from the Nintendo alarm clock and then i decided to 
 
 ## BOM
 
+
 | Name | Cost (AUD) | Merchant | Purpose |
 | :--- | :--- | :--- | :--- |
-| 3.5” TFT display | 11.00 | Aliexpress | To display the content |
-| RPI 02w | 14.00 | Amazon | To act as the microcontroller |
-| Wire | 1.00 | Anywhere | To connect everything together |
+| CYD display | 16.79 | Aliexpress | To display the content |
+| 1W speaker | 4.70 | aliexpress | to make sound |
+| JST 1.25 10cm wire | 1.00 | aliexpress | To connect rotary encoder to CYD |
+| KY - 040 rotary encoder | 3.36 | Aliexpress | To act as the dial for the display |
+| **Total** | **$25.85** | | |
