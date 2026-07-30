@@ -1,5 +1,6 @@
 # Open-Alarmo
 Open Alarmo clock
+
 ![Open Alarmo Front View](Photos/front_view.png)
 ## design
 I wanted to make an alarm clock that would wake me up at morn ing but also do it in a cool way and then an idea popped into my head one from 6 months ago when i saw the Nintendo Alarmo getting released. It was perfect, everything except that t was locked down, made by Nintendo and was too expensive. I set out to build one for a budget of just $20 USD.
