@@ -17,7 +17,7 @@ I recorded my CAD time using Hackatime In this Cad session i designed and starte
 
 # July 25: Shopping for components
 Went shopping for the components
-I found a rotary encoder that would connect to the cyd via a jst connector
+I found a rotary encoder that would connect to the CYD via a jst connector
 
 I found everything on Aliexpress as it was cheapest and found the versions that had models available on Grabcad so design would be easier.
 
@@ -28,14 +28,15 @@ also updated on Github readme
 | :--- | :--- | :--- | :--- |
 | CYD display | 16.79 | Aliexpress | To display the content |
 | 1W speaker | 4.70 | aliexpress | to make sound |
-| JST 1.25 10cm wire | 1.00 | aliexpress | To connect rotary encoder to CYD |
+| JST 1.25 10cm wire | 1.00 | Aliexpress | To connect rotary encoder to CYD |
 | KY - 040 rotary encoder | 3.36 | Aliexpress | To act as the dial for the display |
 | **Total** | **$25.85** | | |
 
 **Total time spent: 2.5 hours**
 
 # July 27: Redesign for CYD
-I changed the design to accommodate a 2.8" touchscreen also more commonly known as the CYD which is a readily available, no solder low profile alternative tp using a TFT display and separate ESP 32 board. I removed the old twist lock mechanism in favour of the good old simpe m3 screw which fits better into the design and is cleaner to look at, the front cover plate not has 2 options to attach. The first is press fit where you press fit it onto the display and the second is magnets, magnets are the preffered route but are more expensive so i decided to include a simpler alternative.
+I changed the design to accommodate a 2.8" touchscreen also more commonly known as the CYD which is a readily available, no solder low profile alternative tp using a TFT display and separate ESP 32 board. I removed the old twist lock mechanism in favor of the good old simple m3 screw which fits better into the design and is cleaner to look at, the front cover plate not has 2 options to attach. The first is press fit where you press fit it onto the display and the second is magnets, magnets are the preferred route but are more expensive so i decided to include a simpler alternative.
 **Total time spent: 4.5 hours**
 
 # July 30: CAD
+I added the mount for the rotary encoder and developed the front magnetic cover for the screen. The front magnetic cover is going to be black PLA to blend into the screen when it is turned off. WHen adding the front cover plate i had to decide what method of attachment i want to use, i wanted it to be easily removable for future upgrades and repairs but also wanted it to be stable and strong. Eventually after some thinking and trying out twist lock ideas i decided on using some strong 6x3 neodymium magnets fairly priced at just 33 C per magnet and only needing 2 would add only 66 cents to the project. 
