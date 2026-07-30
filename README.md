@@ -1,5 +1,5 @@
 # Open-Alarmo
-Open Alarmo clock
+**Open Alarmo clock**
 
 ![Open Alarmo Front View](Photos/front_view.png)
 ## design
