@@ -56,7 +56,7 @@ I added the mount for the rotary encoder and developed the front magnetic cover 
 
 **Total time spent: 2.5 hours**
 
-# July 30: CAD
+# July 31: CAD
 I designed the rotary dial cap, this is similar to the dial used to control the Nintendo Alarmo, although my variant will be touchscreen. The dial can be used to set alarms, timers and other time related activities, the dial can also be used to play games on the clock, it is a fun feature similar to the playdate. I had to figure out how to use a different type of filet, an asymmetrical fillet to get the desired shape. The clock design is now almost complete the last remaining feature is the speaker hole and the haptic motor for a satisfying feel everytime the wheel is turned.
 
 <img width="638" height="626" alt="Front view" src="https://github.com/user-attachments/assets/29325b46-c45f-45f1-8197-aeec1d061dbf" />
