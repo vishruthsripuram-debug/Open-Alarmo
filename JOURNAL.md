@@ -65,3 +65,6 @@ I designed the rotary dial cap, this is similar to the dial used to control the 
 
 
 **Total time spent: 1 hours**
+
+# July 31: CAD: adding speaker grille and expanding USB port
+I added the final touch which was the space for the speaker on the back of the device. The USB port expansion was a simple sketch and cut of the main body. The speaker grille is reovable and vertical whcih i thpught looked nice.
