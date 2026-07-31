@@ -64,8 +64,9 @@ I designed the rotary dial cap, this is similar to the dial used to control the 
 <img width="197" height="96" alt="rotary encoder" src="https://github.com/user-attachments/assets/9315cdd1-ca80-46b3-b702-8ad556170055" />
 
 
-**Total time spent: 1 hours**
+**Total time spent: 2.5 hours**
 
 # July 31: CAD: adding speaker grille and expanding USB port
 I added the final touch which was the space for the speaker on the back of the device. The USB port expansion was a simple sketch and cut of the main body. The speaker grille is removable and vertical which i thought looked nice.
 <img width="496" height="489" alt="Speaker hole" src="https://github.com/user-attachments/assets/d1cb5535-2ab0-4255-a62f-439260c15190" />
+**Total time spent: 1.5 hours**
