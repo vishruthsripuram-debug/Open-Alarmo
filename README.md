@@ -1,5 +1,6 @@
 # Open-Alarmo
 **Open Alarmo clock**
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/837f5e09-aa15-4e85-8788-894f604a6e3e" />
 
 ![Open Alarmo Front View](Photos/front_view.png)
 ## design
