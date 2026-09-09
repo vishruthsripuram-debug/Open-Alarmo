@@ -18,3 +18,6 @@ It started with inspiration from the Nintendo alarm clock and then i decided to 
 | JST 1.25 10cm wire | 1.00 | aliexpress | To connect rotary encoder to CYD |
 | KY - 040 rotary encoder | 3.36 | Aliexpress | To act as the dial for the display |
 | **Total** | **$25.85** | | |
+
+## Wiring Diagram
+<img width="787" height="625" alt="wiring digram" src="https://github.com/user-attachments/assets/d74bf8dd-b987-4c3c-a3ed-cd71a476a865" />
