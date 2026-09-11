@@ -20,4 +20,5 @@ It started with inspiration from the Nintendo alarm clock and then i decided to 
 | **Total** | **$25.85** | | |
 
 ## Wiring Diagram
-<img width="787" height="625" alt="wiring digram" src="https://github.com/user-attachments/assets/d74bf8dd-b987-4c3c-a3ed-cd71a476a865" />
+
+<img width="930" height="743" alt="wiring diagram" src="https://github.com/user-attachments/assets/e819f5b1-432d-44aa-af6d-c2b2403981ee" />
