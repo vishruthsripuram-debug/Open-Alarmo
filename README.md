@@ -2,7 +2,7 @@
 **Open Alarmo clock**
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/837f5e09-aa15-4e85-8788-894f604a6e3e" />
 
-![Open Alarmo Front View](Photos/front_view.png)
+![Open Alarmo Front View](Photos/isometric.png)
 ## design
 I wanted to make an alarm clock that would wake me up at morn ing but also do it in a cool way and then an idea popped into my head one from 6 months ago when i saw the Nintendo Alarmo getting released. It was perfect, everything except that t was locked down, made by Nintendo and was too expensive. I set out to build one for a budget of just $20 USD.
 
