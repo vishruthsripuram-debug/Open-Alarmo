@@ -20,5 +20,6 @@ It started with inspiration from the Nintendo alarm clock and then i decided to 
 
 ## Wiring Diagram
 
-![Open Alarmo Front View](clock wiring diagram.png)
+![Clock Wiring Diagram](clock%20wiring%20diagram.png)
+
 
