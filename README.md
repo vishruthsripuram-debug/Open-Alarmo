@@ -20,4 +20,5 @@ It started with inspiration from the Nintendo alarm clock and then i decided to 
 
 ## Wiring Diagram
 
-<img width="930" height="743" alt="wiring diagram" src="https://github.com/user-attachments/assets/e819f5b1-432d-44aa-af6d-c2b2403981ee" />
+![Open Alarmo Front View](clock wiring diagram.png)
+
